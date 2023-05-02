@@ -1,0 +1,83 @@
+body {
+  padding: 75px;
+}
+
+.activity {
+  background-image: url("https://github.com/BradleyAPierce/DX_Playbook_Images/blob/main/DM_DragandDropBackground.jpg?raw=true");
+  /* The image used */
+  background-repeat: no-repeat;
+  background-size: 1024px;
+  background-position: absolute;
+  background-color: #f7f3f2;
+}
+
+#customerdraggable {
+  cursor: move;
+}
+
+
+#strategydraggable {
+  cursor: move;
+}
+
+#technologydraggable {
+  cursor: move;
+}
+
+#operationsdraggable {
+  cursor: move;
+}
+
+#organizationdraggable {
+  cursor: move;
+}
+
+#customerdraggablecurrent {
+  cursor: move;
+  z-index: 1;
+}
+
+#strategydraggablecurrent {
+  cursor: move;
+  z-index: 1;
+}
+
+#technologydraggablecurrent {
+  cursor: move;
+  z-index: 1;
+}
+
+#operationsdraggablecurrent {
+  cursor: move;
+  z-index: 1;
+}
+
+#organizationdraggablecurrent {
+  cursor: move;
+  z-index: 1;
+}
+
+#customerdraggablefuture {
+  cursor: move;
+  z-index: 2;
+}
+
+#strategydraggablefuture {
+  cursor: move;
+  z-index: 2;
+}
+
+#technologydraggablefuture {
+  cursor: move;
+  z-index: 2;
+}
+
+#operationsdraggablefuture {
+  cursor: move;
+  z-index: 2;
+}
+
+#organizationdraggablefuture {
+  cursor: move;
+  z-index: 2;
+}
