@@ -36,17 +36,17 @@ body {
   cursor: move;
 }
 
-#customerdraggablecurrent {
+#technologiesdraggablecurrent {
   cursor: move;
   z-index: 1;
 }
 
-#strategydraggablecurrent {
+#spacesdraggablecurrent {
   cursor: move;
   z-index: 1;
 }
 
-#technologydraggablecurrent {
+#peopledraggablecurrent {
   cursor: move;
   z-index: 1;
 }

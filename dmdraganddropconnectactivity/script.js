@@ -19,15 +19,15 @@ $( function() {
   });
 
 $( function() {
-    $( "#customerdraggablecurrent" ).draggable();
+    $( "#technologiesdraggablecurrent" ).draggable();
   });
 
 $( function() {
-    $( "#strategydraggablecurrent" ).draggable();
+    $( "#spacesdraggablecurrent" ).draggable();
   });
 
 $( function() {
-    $( "#technologydraggablecurrent" ).draggable();
+    $( "#peopledraggablecurrent" ).draggable();
   });
 
 $( function() {
